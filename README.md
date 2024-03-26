@@ -9,3 +9,9 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CleaneR927&theme=kimbie_dark&margin-w=15&margin-h=15&no-bg=true)](https://github.com/CleaneR927/github-profile-trophy)
+
+
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=CleaneR927&theme=onedark-duo&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=1000" alt="GitHub Streak" /></a>
+
+
+<a href="[https://github.com/CleaneR927/github-readme-stats)"><img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleaneR927&theme=onedark&bg_color=0d1117&" /></a>
