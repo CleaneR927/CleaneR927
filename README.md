@@ -6,7 +6,8 @@
 
 ɪ ʜᴀᴠᴇ ʜᴀᴅ ᴀ ʟᴏɴɢ-ꜱᴛᴀɴᴅɪɴɢ ɪɴᴛᴇʀᴇꜱᴛ ɪɴ ᴅᴇᴠᴇʟᴏᴘɪɴɢ **ɢᴀᴍᴇꜱ**, **ꜱᴏꜰᴛᴡᴀʀᴇ** ᴀɴᴅ **ᴡᴇʙꜱɪᴛᴇꜱ**. ɪ ᴅᴇᴄɪᴅᴇᴅ ᴛᴏ ꜱᴛᴀʀᴛ ᴅɪᴠɪɴɢ ɪɴᴛᴏ ᴛʜɪꜱ ᴀʀᴇᴀ ᴡɪᴛʜ ꜰʀᴏɴᴛ-ᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ. ɪ ꜱᴛᴀʀᴛᴇᴅ ᴍʏ ᴊᴏᴜʀɴᴇʏ ɪɴ ᴇᴀʀʟʏ **2024** ᴀɴᴅ ᴄᴏɴᴛɪɴᴜᴇ ɪᴛ ᴡɪᴛʜ ᴅɪʟɪɢᴇɴᴛ ꜱᴛᴜᴅʏ ᴀɴᴅ ᴅɪꜱᴄᴏᴠᴇʀʏ ᴏꜰ ɴᴇᴡ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ ᴀɴᴅ ᴏᴘᴘᴏʀᴛᴜɴɪᴛɪᴇꜱ.
 ---
-
+Languages and Tools:
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg)
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=CleaneR927&theme=kimbie_dark&margin-w=15&margin-h=15&no-bg=true)](https://github.com/CleaneR927/github-profile-trophy)
 
