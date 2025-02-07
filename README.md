@@ -4,7 +4,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=1000&letterSpacing=&duration=4000&pause=1000&color=25852A&center=true&vCenter=true&multiline=true&width=1000&lines=%E1%B4%80+%EA%9C%B0%CA%80%E1%B4%8F%C9%B4%E1%B4%9B-%E1%B4%87%C9%B4%E1%B4%85+%E1%B4%85%E1%B4%87%E1%B4%A0%E1%B4%87%CA%9F%E1%B4%8F%E1%B4%98%E1%B4%87%CA%80+%EA%9C%B0%CA%80%E1%B4%8F%E1%B4%8D+%CA%80%E1%B4%9C%EA%9C%B1%EA%9C%B1%C9%AA%E1%B4%80%2C+%C9%AA%C9%B4%E1%B4%9B%E1%B4%87%CA%80%E1%B4%87%EA%9C%B1%E1%B4%9B%E1%B4%87%E1%B4%85+%C9%AA%C9%B4+%E1%B4%9B%CA%9C%E1%B4%87+%22%C9%AA%E1%B4%9B%22+%EA%9C%B0%C9%AA%E1%B4%87%CA%9F%E1%B4%85." alt="Typing SVG" /></a>
 
-
 ɪ ʜᴀᴠᴇ ʜᴀᴅ ᴀ ʟᴏɴɢ-ꜱᴛᴀɴᴅɪɴɢ ɪɴᴛᴇʀᴇꜱᴛ ɪɴ ᴅᴇᴠᴇʟᴏᴘɪɴɢ **ɢᴀᴍᴇꜱ**, **ꜱᴏꜰᴛᴡᴀʀᴇ** ᴀɴᴅ **ᴡᴇʙꜱɪᴛᴇꜱ**. ɪ ᴅᴇᴄɪᴅᴇᴅ ᴛᴏ ꜱᴛᴀʀᴛ ᴅɪᴠɪɴɢ ɪɴᴛᴏ ᴛʜɪꜱ ᴀʀᴇᴀ ᴡɪᴛʜ ꜰʀᴏɴᴛ-ᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ. ɪ ꜱᴛᴀʀᴛᴇᴅ ᴍʏ ᴊᴏᴜʀɴᴇʏ ɪɴ ᴇᴀʀʟʏ **2024** ᴀɴᴅ ᴄᴏɴᴛɪɴᴜᴇ ɪᴛ ᴡɪᴛʜ ᴅɪʟɪɢᴇɴᴛ ꜱᴛᴜᴅʏ ᴀɴᴅ ᴅɪꜱᴄᴏᴠᴇʀʏ ᴏꜰ ɴᴇᴡ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ ᴀɴᴅ ᴏᴘᴘᴏʀᴛᴜɴɪᴛɪᴇꜱ.
 
 
