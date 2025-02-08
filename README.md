@@ -9,7 +9,7 @@
 Languages and Tools:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="50" height="50" />
----
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=CleaneR927&theme=kimbie_dark&margin-w=15&margin-h=15&no-bg=true)](https://github.com/CleaneR927/github-profile-trophy)
 
 
